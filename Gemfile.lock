@@ -94,7 +94,7 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     acts_as_list (1.0.2)
       activerecord (>= 4.2)
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     apparition (0.6.0)
       capybara (~> 3.13, < 4)
